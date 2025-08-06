@@ -41,7 +41,8 @@ Model CNN yang dibangun memiliki struktur:
 
 ---
 
-## 📈 Hasil Evaluasi
+## 📈 Hasil Evaluasi Test Akhir
 
-Setelah training selama beberapa epoch:
-
+```python
+Test Accuracy: 85.6667%
+Test Loss: 0.4432
