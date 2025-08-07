@@ -1,4 +1,4 @@
-# 🧠 Intel Image Classification with CNN & TensorFlow
+# 🧠 Image Classification with CNN & TensorFlow
 
 Proyek ini bertujuan untuk mengklasifikasikan gambar ke dalam 6 kategori lingkungan menggunakan model **Convolutional Neural Networks (CNN)** dengan **TensorFlow**. Dataset yang digunakan adalah [Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) dari Kaggle, yang berisi lebih dari 25.000 gambar berukuran 150x150 piksel.
 
